@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: runner.DesafioSicredi
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 32.362 s - in runner.DesafioSicredi
