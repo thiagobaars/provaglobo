@@ -11,7 +11,7 @@ public class FacebookAuthPage extends BasePage{
 		String xpathSenha = "//*[@id='pass']";
 
 		setText(xpathLogin, "thiagobaars@hotmail.com");
-		setText(xpathSenha, "f!8FDJ");
+		setText(xpathSenha, "TesteAutomacao!");
 	}
 	
 	public void clicarEntrarFacebook() {
